@@ -7,3 +7,6 @@ pim_title:
 measurements:
     families: "{0}0 Measurement families|{1}1 Measurement family|]1, Inf[{{ itemsCount }} Measurement families"
     close: Close
+    add_new_measurement_family: Add a new measurement family
+    title:
+        measurement: Measurement
